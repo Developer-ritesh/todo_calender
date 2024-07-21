@@ -53,7 +53,7 @@ These instructions will get you a copy of the project up and running on your loc
 ## Project Structure
 
 ```plaintext
-attendance-calendar/
+todo_calender/
 ├── android
 ├── build
 ├── ios
@@ -64,7 +64,7 @@ attendance-calendar/
 ├── test
 ├── pubspec.yaml
 └── README.md
-
+```
 
 - lib/main.dart: Entry point of the application.
 - lib/attendance_screen.dart: Contains the main screen with the calendar.
@@ -84,7 +84,6 @@ attendance-calendar/
 
 ```
 git checkout -b feature/todo_calender
-
 ```
 
 - Commit your changes:
