@@ -11,7 +11,8 @@ A simple Flutter application that allows users to mark attendance on a calendar.
 
 ## Screenshots
 
-![Attendance Calendar](screenshots/screenshot1.png)
+![Attendance Calendar](lib/screenshots/Screenshot_1721536140.png)
+![Attendance Calendar](lib/screenshots/Screenshot_1721536164.png)
 
 ## Getting Started
 
